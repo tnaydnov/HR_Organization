@@ -1,0 +1,549 @@
+[33mcommit 81bf5cca3e23b7717cf0934dd4b5756faf6a1fba[m[33m ([m[1;36mHEAD -> [m[1;32mHR_Deliveries[m[33m, [m[1;31morigin/HR_Deliveries[m[33m)[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Mon Jun 12 14:12:55 2023 +0300
+
+    Seperated PresentationLayer to CLI and GUI packages
+
+[33mcommit eeea0f440a3b1eb8889e6910d15ce371091de779[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Mon Jun 12 13:43:16 2023 +0300
+
+    :racehorse: bugfixes in DB update - solved the formID update issue
+
+[33mcommit 8fa3a70267293a89ee4b26d5bb4c8ef2d3ba60eb[m
+Merge: b20b989 8662d1e
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Wed May 24 12:17:31 2023 +0300
+
+    Merge branch 'HR_Deliveries' of https://github.com/ADSSGroupO/ADSS_Group_O into HR_Deliveries
+
+[33mcommit b20b98960b621eef0e319faa96c6b81777986085[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Wed May 24 12:14:43 2023 +0300
+
+    fixed a bug where formID wouldn't be updated :bug:
+
+[33mcommit 8662d1e4b1f6f4a664daa5ede5d42a4bd0c8642b[m
+Author: Peleg Ben Barak <benbapel@post.bgu.ac.il>
+Date:   Wed May 17 21:34:22 2023 +0300
+
+    Update README.md
+    
+    🎨 updated Readme
+
+[33mcommit 42bd2d3bd6cf818fb09d5c092042ec3d9aeaed07[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Wed May 17 21:31:03 2023 +0300
+
+    :sparkles: added instructions, fixed tests :rocket:
+
+[33mcommit 548e94f37de8a9b072fcc9cf981b9bb8e256ea12[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Wed May 17 20:15:17 2023 +0300
+
+    :sparkles:fixed jar files :rocket:
+
+[33mcommit 6643ef5c7a430324b51e623b798c37e17f6c18fd[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Wed May 17 15:35:44 2023 +0300
+
+    :sparkles:fixed jar files :rocket:
+
+[33mcommit e80c4bff5289ba895e803378c0bbdec6169f42a4[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Wed May 17 00:23:45 2023 +0300
+
+    Final updated JAR push
+
+[33mcommit a72bb15cc66eb47001a57b696c73e35b89146576[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Wed May 17 00:20:33 2023 +0300
+
+    Final updated JAR push
+
+[33mcommit 3679fe72cb6abb29c626c2f88a950c036301dd79[m
+Merge: 9115f5a fef888b
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Wed May 17 00:14:33 2023 +0300
+
+    test
+
+[33mcommit 9115f5a552ee82a934429e6bd99211831dbd95f9[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Wed May 17 00:09:32 2023 +0300
+
+    Final version v1
+
+[33mcommit 7877e5a32a222f2293098febe9a06585bb256e33[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Wed May 17 00:08:15 2023 +0300
+
+    Final version v1
+
+[33mcommit fef888bb273b8e5cfd90e6cf4423b443c79ae474[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Tue May 16 23:40:24 2023 +0300
+
+    fix
+
+[33mcommit c0cc1fa68aaae328285a25261a99b78cbe20ff35[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Tue May 16 23:25:57 2023 +0300
+
+    delivery form id is now updated in the DB to a stop once a stop is added to a form
+
+[33mcommit 90ee55d4f33141fdcd21eed8405bc2b9a2b31ca8[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Mon May 15 19:14:00 2023 +0300
+
+    bug fixes
+
+[33mcommit 45d1eb6a4dc5c552662aa445c828bfbe178e7230[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Mon May 15 18:35:15 2023 +0300
+
+    weight measuring fixes
+
+[33mcommit ef19162d8b7980a978d3139800d3af3b7a2b9675[m
+Merge: 82d2a4e 2e918e0
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Mon May 15 17:51:40 2023 +0300
+
+    bug fixes
+
+[33mcommit 82d2a4eba21b76d31b652f566821e8207f8e49bf[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Mon May 15 17:29:56 2023 +0300
+
+    bug fixes
+
+[33mcommit 55817dd449a9369e8b63cc603f7a4a3f240afa19[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Mon May 15 17:27:14 2023 +0300
+
+    bug fixes
+
+[33mcommit 2e918e0bbef72208e59adb32dd625329e9854733[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Mon May 15 17:25:22 2023 +0300
+
+    Final version v1
+
+[33mcommit e3490a0bf95133e433873adae12c1ddde56e3c5a[m
+Merge: 9cba7f0 422d7f6
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Mon May 15 17:12:51 2023 +0300
+
+    Merge remote-tracking branch 'origin/HR_Deliveries' into HR_Deliveries
+
+[33mcommit 9cba7f0c2e38ef6609a38562d90355ce8656ca8b[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Mon May 15 17:12:42 2023 +0300
+
+    HR Change
+
+[33mcommit 422d7f6e418b775377c5e960fe2d74a9cbbd7c15[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Mon May 15 16:47:28 2023 +0300
+
+    :bug: bugfixes
+
+[33mcommit f5f66252bf8b44f94673cc441c9de47c0a4738c9[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Mon May 15 10:22:58 2023 +0300
+
+    bug fixes
+
+[33mcommit 954bb263843ad283ed1c5e267ce1af76114226a5[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Sun May 14 23:57:10 2023 +0300
+
+    creating less stops
+
+[33mcommit 29235950669aba71acef3210e8cdd91b415d7b0b[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Sun May 14 23:21:02 2023 +0300
+
+    HR Change
+
+[33mcommit 95c10d910324c67d71994ddc808a62f5fbdfe8c7[m
+Merge: b713502 eef159e
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Sun May 14 23:06:49 2023 +0300
+
+    Merge remote-tracking branch 'origin/HR_Deliveries' into HR_Deliveries
+
+[33mcommit b71350226190a5a8bd664e626bc47dbfcb667e63[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Sun May 14 23:06:39 2023 +0300
+
+    HR Change
+
+[33mcommit eef159edb8686af0551cd0b02dec6fb0ee5cd3a2[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Sun May 14 23:05:15 2023 +0300
+
+    deliveryForms are now created correctly
+
+[33mcommit be6b57279dd8c248fe7cf7c726fb4de9407c17ec[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Sun May 14 14:06:05 2023 +0300
+
+    status was not initialized in the constructor of DeliveryForm
+
+[33mcommit f1ce6a0f46ddc4c31cc0fe900dd82666678065bc[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Sat May 13 17:55:01 2023 +0300
+
+    :bug: major bugfixes when reading and writing to/from DB :bug:
+
+[33mcommit 1a65ee4ef0a9a7da09e44238f9c84e8e4b992ba2[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Fri May 12 19:03:08 2023 +0300
+
+    :bug: fixed primary key bugs in DB :bug:
+
+[33mcommit b3b55b59632b5c1bcde8a9559dd94cca62235547[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Fri May 12 18:09:09 2023 +0300
+
+    :bug: fixed DB insert and update
+
+[33mcommit 37c5cbd2ce90431d64696540cb171a6eaf9fc4d1[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Fri May 12 17:10:56 2023 +0300
+
+    DB changes and updates
+
+[33mcommit 912ebd26886295cb8b70b11e594dca39d1f8a435[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Fri May 12 17:08:53 2023 +0300
+
+    items are added to DB from addStop
+
+[33mcommit 4b5bf1b225bd6bcf32d514cea28f880ad36fb532[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Fri May 12 16:58:53 2023 +0300
+
+    added items table to DB and now items are loaded
+
+[33mcommit 1e7ca76b131c501148d540267fa172e3151b5cd4[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Fri May 12 16:26:30 2023 +0300
+
+    destinations are added with load data now
+
+[33mcommit cf8bc451ef96bb55bb73fec0bbc5aa812cd49669[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Fri May 12 15:06:44 2023 +0300
+
+    changed formID in dekiveryStops to int
+
+[33mcommit bbbbcc09aeadc71f11becc27c7266928db360a8b[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Fri May 12 15:03:11 2023 +0300
+
+    added formID field to DeliveryStop
+
+[33mcommit 050dfb730ae93c6d07698dacd40bd78c11b58911[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Fri May 12 13:00:18 2023 +0300
+
+    :white_check_mark: fixed a mock tester
+
+[33mcommit d675f0ce0534d557decfc94d7d57c30df0b97893[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Fri May 12 12:59:06 2023 +0300
+
+    :white_check_mark: added integration tests
+
+[33mcommit 8dfea0b72510cb48e3d8e047155ad5141c314558[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Fri May 12 12:33:56 2023 +0300
+
+    :ard: improved UI
+
+[33mcommit ee01a6f85d75f8fe9b55c4745db6ff6d678615ff[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Fri May 12 12:03:36 2023 +0300
+
+    :ard: fixed bug which mistakingly reported completions
+
+[33mcommit f2f147f12beed3dee1bf24620eb024d84ca638ac[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Fri May 12 11:40:17 2023 +0300
+
+    :ard: added flavour to name generators
+
+[33mcommit c6f735c9d3ffafe3935493547e94c5929d3d2710[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Fri May 12 11:22:18 2023 +0300
+
+    :construction_worker: added delivery stops to DB
+
+[33mcommit c836f4e1e12d50549f1ee3799852917f19b79502[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Fri May 12 11:18:21 2023 +0300
+
+    :white_check_mark: fixed time comparison logic in storeAvailabilityChecker
+
+[33mcommit 121cacb68a7221d97d90170e27c78281488e67a8[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Thu May 11 20:04:33 2023 +0300
+
+    :construction_worker: added a condition to prevent exceptions
+
+[33mcommit 9681762b572515cecd17cdde57157bc14c695363[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Thu May 11 19:59:52 2023 +0300
+
+    :construction_worker: bugfixes in reading from DB
+
+[33mcommit 2ee04c71ff3f3c72b600cf98329390c93f35811f[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Thu May 11 19:26:29 2023 +0300
+
+    HR Change
+
+[33mcommit 89962f5776436d6c82d6c77ebd08c59870c76589[m
+Merge: 933b139 3417f9a
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Thu May 11 19:25:03 2023 +0300
+
+    Merge remote-tracking branch 'origin/HR_Deliveries' into HR_Deliveries
+
+[33mcommit 933b1398470a778106dcf4b21b8933dce100f2b8[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Thu May 11 19:24:53 2023 +0300
+
+    HR Change
+
+[33mcommit 3417f9ab5f0d01d9e53039b184d02eaec3d9d2e5[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Thu May 11 17:38:40 2023 +0300
+
+    :construction_worker: generated delivery stops to DB
+
+[33mcommit 219a65ecadb5111ec3efb263c8e66018c87fe1b7[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Thu May 11 17:32:15 2023 +0300
+
+    :construction_worker: added DeliveryStopGenerator
+
+[33mcommit 1c3d027b66f72cc87767592ec342808caeb1d26b[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Thu May 11 16:41:51 2023 +0300
+
+    :construction_worker: added UI info outlining illegal combinations
+
+[33mcommit 107c0f8bd76993b51bd346445198f4e5968e4bba[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Thu May 11 16:32:12 2023 +0300
+
+    :construction_worker: found and highlighted bugs and exceptions
+
+[33mcommit ddf46d2a3961b5515aa01a62b865f817e887c387[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Thu May 11 14:57:24 2023 +0300
+
+    tiny fix in DriverControllerTest
+
+[33mcommit 1597aa98952d0e187f58991263d3cf28d4ff9243[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Wed May 10 15:51:49 2023 +0300
+
+    :heavy_check_mark: fixed Delivery integration tests
+
+[33mcommit 8087e68e2b70c9057ff12065277422a6d362f5e9[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Wed May 10 15:13:12 2023 +0300
+
+    :recycle: fixed siteGenerator to read from DB
+
+[33mcommit a35df4e1b319b3943d93eb549144d44e9bfc3862[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Wed May 10 15:06:37 2023 +0300
+
+    :construction: inserted info to DB
+
+[33mcommit 927da416cba9dd60a266d7f9faf43b6b797576c6[m
+Merge: c6844f4 cda87b7
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Wed May 10 14:36:30 2023 +0300
+
+    Merge branch 'HR_Deliveries' of https://github.com/ADSSGroupO/ADSS_Group_O into HR_Deliveries
+
+[33mcommit c6844f468401a2a588476974a597011f897040ef[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Wed May 10 14:36:25 2023 +0300
+
+    :construction: updated DAO's and inserted info to DB
+
+[33mcommit cda87b7019f6b85b36402b05c8001560d6fa0628[m
+Merge: a157bb1 6f9e024
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Tue May 9 22:28:57 2023 +0300
+
+    DAL and DB updates
+
+[33mcommit a157bb1e88626906506b626da5b459b4aff937b0[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Tue May 9 22:24:38 2023 +0300
+
+    DAL and DB updates
+
+[33mcommit 64d75dffbd0f1cf65ebd0e6ad1de3e674a9d5390[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Tue May 9 22:22:29 2023 +0300
+
+    DAL and DB updates
+
+[33mcommit 6f9e02432a4303aa0ba839d1c61c2cf862cf3dc8[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Tue May 9 20:27:48 2023 +0300
+
+    :recycle: modified foreign key constraint in drivers :white_check_mark:
+
+[33mcommit 1dcc38b20ade02c600ea8d4b5a94ef8a4d107c1b[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Tue May 9 20:24:26 2023 +0300
+
+    :recycle: refreshed DB :white_check_mark:
+
+[33mcommit f6e4af99c9d0e2c5cfed7489b36e58b9cf4ce18c[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Tue May 9 20:13:37 2023 +0300
+
+    :recycle: added DriverDAO delete funtionality :white_check_mark:
+
+[33mcommit 2f7db0a9f6b7468de2630eea98749400407ffd89[m
+Merge: 5c90167 b90ec42
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Tue May 9 20:11:57 2023 +0300
+
+    to merge
+
+[33mcommit 5c90167e47ad8cd76692d1e5a6dc3089af37ba85[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Tue May 9 20:10:49 2023 +0300
+
+    :recycle: added DriverDAO delete funtionality :white_check_mark:
+
+[33mcommit eb2a070850dc57af3f229b6b0428f0e8ff707b6e[m
+Author: Reut Arad <reutara@post.bgu.ac.il>
+Date:   Tue May 9 19:56:29 2023 +0300
+
+    DAL updates
+
+[33mcommit b90ec423b5309f00ed5fe1e45040d2b00fa8948a[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Tue May 9 19:52:53 2023 +0300
+
+    HR Change
+
+[33mcommit 4f3cebb4559529347a895e4a80be6f981aed5d3e[m
+Merge: 4d51913 750a8d7
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Tue May 9 19:26:37 2023 +0300
+
+    Merge remote-tracking branch 'origin/HR_Deliveries' into HR_Deliveries
+
+[33mcommit 4d51913b7486f016b5e85d817e174c35b3487397[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Tue May 9 19:26:24 2023 +0300
+
+    HR Change
+
+[33mcommit c653dbcc0550bd80c6542d64993d660a24d4a855[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Tue May 9 19:25:45 2023 +0300
+
+    HR Change
+
+[33mcommit 750a8d7a2306894119652ae9e9e2012d2b07eb6b[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Tue May 9 19:25:10 2023 +0300
+
+    :heavy_check_mark:fixed driver shifts and passed tests :white_check_mark:
+
+[33mcommit 4a1f58066bd7204168d2f6a780a7c32d434de4cd[m
+Merge: d523492 475e2a8
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Tue May 9 19:17:58 2023 +0300
+
+    to merge
+
+[33mcommit d5234925ddbec3c7f7207a32d09f2637c0710932[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Tue May 9 19:17:09 2023 +0300
+
+    :recycle:renamed test classes :white_check_mark:
+
+[33mcommit 475e2a8f0bebfb17403ccbe55c0558b69937ba7f[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Tue May 9 19:17:00 2023 +0300
+
+    HR Change
+
+[33mcommit 7245d91cc2fa0384f1728e5cb122708b14c9eb89[m
+Merge: 71ced22 4a04d52
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Tue May 9 19:07:01 2023 +0300
+
+    Merge branch 'HR_Deliveries' of https://github.com/ADSSGroupO/ADSS_Group_O into HR_Deliveries
+
+[33mcommit 71ced2284f163c3cf4716c2d8378f86863453946[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Tue May 9 19:06:56 2023 +0300
+
+    fixed tests :white_check_mark:
+
+[33mcommit 4a04d52035a5d6caecdcafedffb6afc50c04e4be[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Tue May 9 19:06:03 2023 +0300
+
+    HR Change
+
+[33mcommit 5b784764726fd9625815f6beced1a9c4c4d5eb97[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Tue May 9 18:50:49 2023 +0300
+
+    HR Change
+
+[33mcommit 437a2a5ae75ede297d727b3321f45d14d83fb75e[m
+Merge: 546c5f4 9603e8a
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Tue May 9 18:48:27 2023 +0300
+
+    Merge branch 'HR_Deliveries' of https://github.com/ADSSGroupO/ADSS_Group_O into HR_Deliveries
+
+[33mcommit 546c5f4dcf30c2fa241db15623f13aa6c246d865[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Tue May 9 18:46:23 2023 +0300
+
+    HR Change
+
+[33mcommit 9f30ca4f9fc2e6915eb01e99de0bda6af9fed9ec[m
+Author: tnaydnov <tnaydnov@gmail.com>
+Date:   Tue May 9 18:44:53 2023 +0300
+
+    HR Change
+
+[33mcommit 9603e8a3ad2d5f95fd859fcf6b70c8f698746414[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Tue May 9 18:44:03 2023 +0300
+
+    :construction_worker: added info to DBs :white_check_mark:
+
+[33mcommit 19331f6191706164ce786abb1ca7931ebfd608e8[m
+Merge: d5f1412 bd9bb11
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Tue May 9 18:31:42 2023 +0300
+
+    Merge branch 'HR_Deliveries' of https://github.com/ADSSGroupO/ADSS_Group_O into HR_Deliveries
+
+[33mcommit d5f1412ae5a62529b7d148abf78500f07a7e3d0b[m
+Author: Peleg <benbapel@post.bgu.ac.il>
+Date:   Tue May 9 18:31:38 2023 +0300
+
+    :construction_worker: added tests :white_check_mark:

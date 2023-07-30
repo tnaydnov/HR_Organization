@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="adss_v0_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dev/out/artifacts/adss_v0_jar/dev.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dev/out/artifacts/adss_v0_jar/adss_v0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
